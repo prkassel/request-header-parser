@@ -1,0 +1,15 @@
+{
+  "name": "request-header",
+  "version": "1.0.0",
+  "description": "Microservice to display IP address, language, and operating system for my browser. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "request-ip": "^1.2.2"
+  }
+}
